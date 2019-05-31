@@ -7,5 +7,7 @@ public class test1 {
 		System.out.println("84798");
 		System.out.println("7");
 		System.out.println("757485");
+		System.out.println("4768756454");
+		System.out.println("4768756454");
 	}
 }
